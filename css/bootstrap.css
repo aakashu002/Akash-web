@@ -67,6 +67,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  
 }
 
 [tabindex="-1"]:focus {
@@ -7818,7 +7819,7 @@ button.bg-dark:focus {
   }
   .mt-sm-5,
   .my-sm-5 {
-    margin-top: 3rem !important;
+    margin-top: 1rem !important;
   }
   .mr-sm-5,
   .mx-sm-5 {
@@ -8741,6 +8742,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  font-size: 15px;
 }
 
 @media (min-width: 576px) {
